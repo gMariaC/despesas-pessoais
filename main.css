@@ -1,0 +1,17 @@
+table, tr, td{
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+
+.largura{
+    background-color: rgb(233, 122, 43);
+    color: white;
+}
+
+#tabela{
+    width: 480px;   
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
